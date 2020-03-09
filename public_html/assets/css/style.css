@@ -1393,12 +1393,11 @@ li {
 .xs-banner-wraper .xs-banner-image {
   height: 100%;
   -ms-flex-item-align: end;
-  align-self: flex-end;
 }
 
 .xs-banner-title {
   color: #41C644;
-  font-size: 4.5em;
+  font-size: 3.5em;
   letter-spacing: -3px;
   margin-bottom: 25px;
   line-height: 1.13;
